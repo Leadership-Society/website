@@ -1,6 +1,6 @@
 # Leadership Library (library-front) ARCHIVED
 
-[!NOTICE: ARCHIVED]
+## NOTICE: ARCHIVED
 Leadership Society is now defunct, and the maintainers of this repo have left Newcastle University. Please let any of the maintainers know if there are any issues
 
 An application hosting the library of Newcastle University's Leadership Society
